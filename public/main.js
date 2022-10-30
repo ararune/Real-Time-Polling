@@ -42,14 +42,17 @@ fetch('http://localhost:3000/poll')
     if(chartContainer){
         const chart = new CanvasJS.Chart('chartContainer', {
             animationEnabled: true,
+            backgroundColor: "#282c34",
             theme: 'theme1',
             title: {
-                text: `Total Votes : ${votes.length}`
+                text: `Total Votes : ${votes.length}`,
+                fontColor: '#abb2bf',
             },
             data: [
                 {
                     type: 'column',
-                    dataPoints: dataPoints
+                    dataPoints: dataPoints,
+                    fontColor: '#abb2bf'
                 }
             ]
         });
@@ -78,4 +81,3 @@ fetch('http://localhost:3000/poll')
             });
     }
 })
-
