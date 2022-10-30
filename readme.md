@@ -1,10 +1,10 @@
 
 ## General info
-___
+
 > This is a real time polling app using Node.js, Express, Pusher, MongoDB and CanvasJS
 
 ## Quick start
-___
+
 
 ```powershell
 # Install dependencies
@@ -18,12 +18,12 @@ npm start
 # localhost:3000/poll to view the DB json
 ```
 ## Image
-___
+
 
 ![](app.png)
 
 ## Tech stack
-___
+
 
 #NodeJS 
 #Express 
