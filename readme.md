@@ -31,6 +31,14 @@ npm start
 #MongoDB 
 #CanvasJS
 
+## Resources
+
+| Name            | Link                                     |
+| --------------- | --------------------------------------------- |
+| Materialize CSS | [Materialize](https://materializecss.com)|
+| Pusher| [Pusher](https://dashboard.pusher.com/)|
+| MongoDB| [MongoDB](https://www.mongodb.com/)|
+| CanvasJS| [CanvasJS](https://www.canvasjs.com/)|
 
 ## My Github
 
