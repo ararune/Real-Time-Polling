@@ -32,12 +32,12 @@ npm start
 
 ## Resources
 
-| Name            | Link                                     |
-| --------------- | --------------------------------------------- |
-| Materialize CSS | [Materialize](https://materializecss.com)|
-| Pusher| [Pusher](https://dashboard.pusher.com/)|
-| MongoDB| [MongoDB](https://www.mongodb.com/)|
-| CanvasJS| [CanvasJS](https://www.canvasjs.com/)|
+Link                                     |
+| --------------------------------------------- |
+| [Materialize](https://materializecss.com)|
+| [Pusher](https://dashboard.pusher.com/)|
+| [MongoDB](https://www.mongodb.com/)|
+| [CanvasJS](https://www.canvasjs.com/)|
 
 ## My Github
 
