@@ -24,12 +24,11 @@ npm start
 
 ## Tech stack
 
-
-#NodeJS 
-#Express 
-#Pusher 
-#MongoDB 
-#CanvasJS
+`Node.js` 
+`Express`
+`Pusher`
+`MongoDB`
+`CanvasJS` 
 
 ## Resources
 
